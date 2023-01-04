@@ -4,7 +4,7 @@
 
 <br>
 
-![당장에 풀어볼 문제집](https://www.acmicpc.net/workbook/view/4349)
+[당장에 풀어볼 문제집](https://www.acmicpc.net/workbook/view/4349)
 
 <br>
 
